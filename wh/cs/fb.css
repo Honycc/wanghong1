@@ -1,0 +1,49 @@
+.k1 header{
+
+	background: #fb6e6e;
+	height: 48px;
+	line-height: 48px;
+}
+.k1{
+	background: #f3f3f9;
+	height: 100vh;
+}
+.k1 div{
+	padding: 5px 0;
+}
+a:hover{
+	text-decoration: none;
+}
+.k1 div img{
+	margin: 0 auto;
+	display: block;
+	width: 48px;
+	height: 38px;
+}
+.k1 .a1{
+	color: white;
+	font-size: 4rem;
+}
+.k1 .a2{
+	color: white;
+	font-size: 2rem;
+
+}
+#text1{
+	width: 80vw;
+	height: 20vh;
+	margin-left:10vw;
+	resize: none;
+	margin-top: 30px;
+}
+#zx{
+	padding-left:calc(10vw - 10px);
+	width: 100vw;
+}
+.pz{
+	margin-left: 10px;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	background: url(../img/bg/zx.png);
+}

@@ -1,0 +1,81 @@
+
+a:hover{
+	text-decoration: none;
+}
+.k1 header{
+
+	background: #fb6e6e;
+	height: 48px;
+	line-height: 48px;
+}
+.k1{
+	background: #f3f3f9;
+}
+.k1 div{
+	padding: 5px 0;
+}
+.k1 div img{
+	margin: 0 auto;
+	display: block;
+	width: 48px;
+	height: 38px;
+}
+.k1 .a1{
+	color: white;
+	font-size: 2.5rem;
+}
+.k1 .a2{
+	color: white;
+	font-size: 2.5rem;
+	padding-left: 15%;
+}
+
+article{
+	margin-top:8vh;
+	width: 100vw;
+	padding: 0 5vw;
+}
+article dl{
+	box-sizing: border-box;
+	margin-bottom: 5vh;
+	border: 1px solid #d6d7dc;
+}
+article dt img{
+	width: 89vw;
+	height: 30vh;
+}
+article dd{
+	padding:2vh 5vw;	
+}
+article dd div{
+	font-size: 4vw;
+}
+article dd div .time{
+	color: #b4b4b4;
+}
+article dd div h2{
+	font-size: 8vw;
+	font-weight: bolder;
+}
+article dd .icons{
+	text-align: right;
+	font-size: 8vw;
+	line-height: 10vh;
+	color: #9f9f9f;
+}
+article dl dd .icons span{
+	padding: 0 2vw;
+}
+article dl dt{
+	position: relative;
+}
+article dl dt h1{
+	position: absolute;
+	left:5vw;
+	top:2vh;
+}
+article dl dt h1 a img{
+	width: 15vw;
+	height:15vw;
+	border-radius: 50%;
+}
